@@ -21,9 +21,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 # Algorithm (ii)
 1.In second program can import lu_factor and lu_solve from python library as same as in second program.
+
 2.Get the input from user in the form of nested list to compute numpy array format and declare it for both the variables.
+
 3.Create the varaiable to Use inputted array to compute of lu_factor of matrix varaible
+
 4.Create the new variable for lu_solve to compute of 'x' varaiable and 'b' variable
+
 5.Print the corresponding variable (solution) to get output
  
  ## Program:
